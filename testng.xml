@@ -15,6 +15,7 @@
       	<methods>
         	  <include name="OmniuteDemoScript1"/>
         </methods>
+        </class>
     </classes>
    </test>
 </suite>
