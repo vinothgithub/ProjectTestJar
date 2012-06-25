@@ -11,11 +11,18 @@
   	<parameter name="os"  value="xp"/>
   	<parameter name="dataSource"  value="AppleOmniuteData.xls"/>
   	<classes>
+<<<<<<< HEAD
       <class name="Test.Omniture"/>
       	<methods>
         	  <include name="OmniuteDemoScript1"/>
         </methods>
+=======
+      <class name="Test.Omniture">
+      	<methods>
+        	  <include name="OmniuteDemoScript1"/>
+        </methods>
         </class>
+>>>>>>> Production
     </classes>
    </test>
 </suite>
