@@ -11,7 +11,7 @@
   	<parameter name="os"  value="xp"/>
   	<parameter name="dataSource"  value="AppleOmniuteData.xls"/>
   	<classes>
-      <class name="Test.Omniture"/>
+      <class name="Test.Omniture">
       	<methods>
         	  <include name="OmniuteDemoScript1"/>
         </methods>
